@@ -15,18 +15,18 @@ interface Todo {
 }
 
 const motivationalMessages = [
-  "You're crushing it! 💪",
+  "You&apos;re crushing it! 💪",
   "One step closer to your goals! 🎯",
-  "You're on fire! 🔥",
+  "You&apos;re on fire! 🔥",
   "Keep up the great work! 👏",
-  "You're making magic happen! ✨",
+  "You&apos;re making magic happen! ✨",
 ]
 
 const appreciativeMessages = [
   "Awesome job! 🌟",
-  "You're a task-slaying superhero! 🦸‍♂️",
+  "You&apos;re a task-slaying superhero! 🦸‍♂️",
   "High five! ✋",
-  "You're unstoppable! 🚀",
+  "You&apos;re unstoppable! 🚀",
   "Task vanquished! 💥",
 ]
 
